@@ -7,5 +7,5 @@ We are solving Algorithm problems which serviced in Programers Web site and shar
 문제명(디렉토리)/각자의영문이름.확장자</br>
 Problem(Directory)/EnglishName.extension</br>
 
-###참여인원
-최준영 - JunYongChoi
+### 참여인원
+최준영 - JunYongChoi </br>
