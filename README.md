@@ -9,4 +9,5 @@ Problem(Directory)/EnglishName.extension</br>
 </br>
 
 ### 참여인원
-최준영 - JunYongChoi 김효철 - HyoCheolKim </br>
+최준영 - JunYongChoi </br>
+김효철 - HyoCheolKim </br>
