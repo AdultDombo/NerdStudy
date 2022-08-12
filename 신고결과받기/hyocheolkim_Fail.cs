@@ -21,7 +21,7 @@ public class Solution {
 	    foreach (string Report in report.Distinct())
 	    {
 		    string[] ReportID_WarningID = Report.Split(' ');
-		    WarningID[ReportID_WarningID[0]] += ReportID_WarningID[1];
+		    WarningID[ReportID_WarningID[0]] += ReportID_WarningID[1]; // CJY : 예상되는 문제점 
 		    WarningCount[ReportID_WarningID[1]]++;
 	    }
 	    //신고 리미트 넘는 ID 확인
