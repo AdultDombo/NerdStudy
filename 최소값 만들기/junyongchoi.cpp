@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include<vector>
-//#include <numeric>
+//#include <numeric> //--> 스칼라 곱 사용하기위한 
 using namespace std;
 
 int solution(vector<int> A, vector<int> B)
